@@ -1,0 +1,1 @@
+EFI basica para o thinkpad t460
